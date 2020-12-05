@@ -130,3 +130,67 @@ h4{
     padding:0 10px; 
 }
 /*Javascript*/
+.image
+{   
+    width: 200px;
+    height: 150px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+
+}
+.productname{
+    text-align: left;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+.description{
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+.oldprice{
+    text-align: left;
+    font: normal normal normal 12px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+
+}
+.price{
+    text-align: left;
+    font: normal normal bold 16px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+
+}
+.cards{
+    text-align: center;
+    display: flex;
+    width: 931px;
+    height: 740px;
+    
+}
+.js{
+    width: 201px;
+    height: 350px;
+    display: inline-block;
+    margin-right: 41px;
+
+}
+.compra{
+    width: 200px;
+    height: 30px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    border-radius: 4px;
+    opacity: 1;
+    text-align: center;
+    margin-bottom: 39px;
+
+}
