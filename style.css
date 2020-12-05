@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+#escopo{
+    margin-left: 290px;
+    margin-right: 290px;
+}
+#intro{
+    background: #707070 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    text-align: center;
+    height: 399px;
+}
+#sub{
+    text-align: center;
+    font: normal normal normal 20px/24px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #ffffff;
+    opacity: 1;
+    font-weight: normal;
+    margin-top: 69px;
+    }
+h1{text-align: center;
+    font: normal normal bold 40px/49px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 0px;
+    margin-bottom: 24px;
+}
+#desc{
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+button{
+    text-align: center;
+    font: normal normal normal 14px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    width: 160px;
+    height: 40px;
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    box-shadow: 0px 1px 6px #00000029;
+    border: 1px solid #707070;
+    border-radius: 4px;    
+    margin: 40px;
+}
+h2{
+    text-align: left;
+    font: normal normal normal 20px/24px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+#container{
+    text-align: center;
+    display: flex;
+    margin-top: 20.97px;
+}
+.box{
+    margin-top: 20.97px;
+    
+}
+#box1{
+    text-align: left;
+
+}
+.lorem{
+    margin-right: 60px;
+    text-align: left;
+    font: normal normal normal 12px/18px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+.form{
+    background: #FFFFFF 0% 0% no-repeat padding-box;
+    border: 1px solid #707070;
+    opacity: 1;
+    width: 340px;
+    height: 30px;
+
+}
+.info{
+    margin-bottom: 7px;
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+}
+#divform{
+    margin-bottom: 41px;
+}
+.gender{
+    text-align: left;
+    justify-content:space-between;
+
+    
+}
+label{
+    text-align: left;
+    font: normal normal normal 12px/14px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    text-align: left;
+    
+}
+h4{
+    width: 100%; 
+   text-align: center; 
+   border-bottom: 1px solid #707070; 
+   line-height: 0.1em;
+   margin: 10px 0 20px; 
+   color: #888888;
+    opacity: 1;
+    margin-bottom: 50px;
+ } 
+ h4 span { 
+    background:#fff; 
+    padding:0 10px; 
+}
+/*Javascript*/
