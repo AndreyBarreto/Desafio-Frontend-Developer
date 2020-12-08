@@ -1,196 +1,282 @@
-body{
-    margin: 0px;
-    padding: 0px;
+body {
+  margin: 0px;
+  padding: 0px;
 }
-#escopo{
-    margin-left: 290px;
-    margin-right: 290px;
+#escopo {
+  margin-left: 290px;
+  margin-right: 290px;
+  text-align: center;
 }
-#intro{
-    background: #707070 0% 0% no-repeat padding-box;
-    border: 1px solid #707070;
-    opacity: 1;
-    text-align: center;
-    height: 399px;
+#intro {
+  background: #707070 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  text-align: center;
+  height: 399px;
+  
+  
 }
-#sub{
-    text-align: center;
-    font: normal normal normal 20px/24px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #ffffff;
-    opacity: 1;
-    font-weight: normal;
-    margin-top: 69px;
-    }
-h1{text-align: center;
-    font: normal normal bold 40px/49px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #FFFFFF;
-    opacity: 1;
-    margin: 0px;
-    margin-bottom: 24px;
-}
-#desc{
-    text-align: center;
-    font: normal normal normal 14px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #FFFFFF;
-    opacity: 1;
-    margin: 0px;
-    margin-bottom: 50px;
-}
-button{
-    text-align: center;
-    font: normal normal normal 14px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
-    width: 160px;
-    height: 40px;
-    background: #FFFFFF 0% 0% no-repeat padding-box;
-    box-shadow: 0px 1px 6px #00000029;
-    border: 1px solid #707070;
-    border-radius: 4px;    
-    margin: 40px;
-}
-h2{
-    text-align: left;
-    font: normal normal normal 20px/24px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
-}
-#container{
-    text-align: center;
-    display: flex;
-    margin-top: 20.97px;
-}
-.box{
-    margin-top: 20.97px;
-    
-}
-#box1{
-    text-align: left;
 
+#sub {
+  text-align: center;
+  font: normal normal normal 20px/24px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  font-weight: normal;
+  margin-top: 69px;
 }
-.lorem{
-    margin-right: 60px;
-    text-align: left;
-    font: normal normal normal 12px/18px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
+h1 {
+  text-align: center;
+  font: normal normal bold 40px/49px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  margin: 0px;
+  margin-bottom: 24px;
 }
-.form{
-    background: #FFFFFF 0% 0% no-repeat padding-box;
-    border: 1px solid #707070;
-    opacity: 1;
-    width: 340px;
-    height: 30px;
-
+#desc {
+  text-align: center;
+  font: normal normal normal 14px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  margin: 0px;
+  margin-bottom: 50px;
 }
-.info{
-    margin-bottom: 7px;
-    text-align: left;
-    font: normal normal normal 12px/14px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
+button {
+  text-align: center;
+  font: normal normal normal 14px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+  width: 160px;
+  height: 40px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  box-shadow: 0px 1px 6px #00000029;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  margin: 40px;
 }
-#divform{
-    margin-bottom: 41px;
+h2 {
+  text-align: left;
+  font: normal normal normal 20px/24px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
 }
-.gender{
-    text-align: left;
-    justify-content:space-between;
-
-    
+#container {
+  text-align: center;
+  display: flex;
+  margin-top: 20.97px;
 }
-label{
-    text-align: left;
-    font: normal normal normal 12px/14px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
-    text-align: left;
-    
+.box {
+  margin-top: 20.97px;
 }
-h4{
-    width: 100%; 
-   text-align: center; 
-   border-bottom: 1px solid #707070; 
-   line-height: 0.1em;
-   margin: 10px 0 20px; 
-   color: #888888;
-    opacity: 1;
-    margin-bottom: 50px;
- } 
- h4 span { 
-    background:#fff; 
-    padding:0 10px; 
+#box1 {
+  text-align: left;
+}
+.lorem {
+  margin-right: 60px;
+  text-align: left;
+  font: normal normal normal 12px/18px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.form {
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  width: 340px;
+  height: 30px;
+}
+.info {
+  margin-bottom: 7px;
+  text-align: left;
+  font: normal normal normal 12px/14px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+#divform {
+  margin-bottom: 41px;
+}
+.gender {
+  text-align: left;
+  justify-content: space-between;
+}
+label {
+  font: normal normal normal 12px/14px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+  text-align: left;
+}
+h4 {
+    font: normal normal bold 18px/16px Helvetica Neue;
+letter-spacing: 0px;
+color: #888888;
+opacity: 1;
+  text-align: center;
+  border-bottom: 1px solid #707070;
+  line-height: 0.1em;
+  margin: 10px 0 20px;
+  color: #888888;
+  opacity: 1;
+  margin-bottom: 50px;
+  margin-top:91px ;
+}
+h4 span {
+  background: #fff;
+  padding: 0 10px;
 }
 /*Javascript*/
-.image
-{   
-    width: 200px;
-    height: 150px;
-    background: #FFFFFF 0% 0% no-repeat padding-box;
-    border: 1px solid #707070;
-    opacity: 1;
-
+.image {
+  width: 200px;
+  height: 150px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
 }
-.productname{
-    text-align: left;
+.productname {
+  text-align: left;
+  font: normal normal normal 14px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.description {
+  text-align: left;
+  font: normal normal normal 12px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.oldprice {
+  text-align: left;
+  font: normal normal normal 12px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.price {
+  text-align: left;
+  font: normal normal bold 16px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.installments {
+  text-align: left;
+  font: normal normal normal 12px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+}
+.cards {
+  text-align: center;
+  display: flex;
+  width: 931px;
+  height: 740px;
+}
+.js {
+  width: 201px;
+  height: auto;
+  display: inline-block;
+  margin-right: 41px;
+}
+.compra {
+  width: 200px;
+  height: 30px;
+  background: #ffffff 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  opacity: 1;
+  text-align: center;
+  margin-left: 0px;
+  margin: 0px;
+  margin-bottom: 39px;
+}
+.aindamais {
+  text-align: center;
+  font: normal normal normal 16px/16px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #888888;
+  opacity: 1;
+  width: 260px;
+  height: 39px;
+  margin-top: 52px;
+}
+
+h5 {
+    font: normal normal bold 18px/16px Helvetica Neue;
+    letter-spacing: 0px;
+    color: #888888;
+    opacity: 1;
+    border-bottom: 1px solid #707070;
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+    color: #888888;
+    margin-bottom: 40px;
+    margin-top:128px ;
+  }
+  h5 span {
+    background: #fff;
+    padding: 0 10px;}
+.aviso{
     font: normal normal normal 14px/16px Helvetica Neue;
     letter-spacing: 0px;
     color: #888888;
     opacity: 1;
-}
-.description{
-    text-align: left;
-    font: normal normal normal 12px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
-}
-.oldprice{
-    text-align: left;
-    font: normal normal normal 12px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
+    margin-top: 44px;
 
 }
-.price{
-    text-align: left;
-    font: normal normal bold 16px/16px Helvetica Neue;
-    letter-spacing: 0px;
-    color: #888888;
-    opacity: 1;
+#contato{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  width: 340px;
+  height: 30px;
+  display: flex;
+}
+.caixaamigo{
+  display: flex;
+  justify-content: center;
+  margin-top: 60px ;
+}
+.inputamigo ,.labelamigo{
+  display: block;
+}
+.amigonome{
+  margin-right: 40px;
+}
+.amigonome .amigo{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  opacity: 1;
+  width: 340px;
+  height: 30px;
 
 }
-.cards{
-    text-align: center;
-    display: flex;
-    width: 931px;
-    height: 740px;
-    
-}
-.js{
-    width: 201px;
-    height: 350px;
-    display: inline-block;
-    margin-right: 41px;
+.enviaragora{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #707070;
+  border-radius: 4px;
+  opacity: 1;
+  width: 260px;
+  height: 39px;
+  margin-top: 50px;
+  margin-bottom:71.76px ;
 
 }
-.compra{
-    width: 200px;
-    height: 30px;
-    background: #FFFFFF 0% 0% no-repeat padding-box;
-    border: 1px solid #707070;
-    border-radius: 4px;
-    opacity: 1;
-    text-align: center;
-    margin-bottom: 39px;
-
+.footerfinal{
+  text-align: center;
+  font: normal normal normal 12px/18px Helvetica Neue;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+footer{
+  background-color: #707070 ;
 }
